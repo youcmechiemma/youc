@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>France &#8211; mon Site</title>
+	<atom:link href="/category/france/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Oct 2023 10:51:50 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Lyon</title>
+		<link>/lyon/</link>
+					<comments>/lyon/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 10:51:50 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<guid isPermaLink="false">/?p=109</guid>
+
+					<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many &#8230;<p class="read-more"> <a class="" href="/lyon/"> <span class="screen-reader-text">Lyon</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lyon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Marseille</title>
+		<link>/marseille/</link>
+					<comments>/marseille/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 10:31:44 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<guid isPermaLink="false">/?p=107</guid>
+
+					<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many &#8230;<p class="read-more"> <a class="" href="/marseille/"> <span class="screen-reader-text">Marseille</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/marseille/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Paris</title>
+		<link>/paris/</link>
+					<comments>/paris/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 10:14:32 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<guid isPermaLink="false">/?p=105</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic &#8230;<p class="read-more"> <a class="" href="/paris/"> <span class="screen-reader-text">Paris</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/paris/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
